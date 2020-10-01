@@ -1,0 +1,21 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.format.settings.url": ".vscode/mystyle.xml",
+    "debug.internalConsoleOptions": "neverOpen",
+    "git.enableSmartCommit": true,
+    "git.postCommitCommand": "push",
+    "editor.detectIndentation": false,
+    "java.saveActions.organizeImports": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "cSpell.words": [
+        "Bivariate",
+        "Hebbian",
+        "Perceptron"
+    ]
+}
